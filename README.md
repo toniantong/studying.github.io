@@ -1,2 +1,2 @@
-[test](https://toniantong.github.io/SelfNotes.github.io/advenitio-master/public/TWOZTT.html)
-https://github.com/toniantong/studying.github.io/blob/main/index.html
+[https://toniantong.github.io/studying.github.io/index.html](https://toniantong.github.io/studying.github.io/index.html)
+[https://github.com/toniantong/studying.github.io/blob/main/index.html](https://github.com/toniantong/studying.github.io/blob/main/index.html)
